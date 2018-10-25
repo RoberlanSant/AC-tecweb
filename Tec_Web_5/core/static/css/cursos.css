@@ -1,0 +1,35 @@
+@charset "UTF-8";	
+@import url('https://fonts.googleapis.com/css?family=Chakra+Petch');
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro');
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+
+
+body {
+	font-family: sans-serif;
+	color: rgba(0,0,0,1);
+}
+
+.cursos li a{
+	color:#0404B4	;
+	text-decoration: none;
+}
+
+
+ul.cursos {
+	font-family: 'Courgette', cursive;
+	font-size: 17pt;
+	color: #888888;
+	text-shadow: 1px 1px 1px rgba(0,0,0,.6);	 
+	display: block;
+	width: 130	0px;
+	float: center;
+	padding: 5px;
+	margin-top: 10px;
+	margin-left: 20px;
+	text-decoration: none;	 		
+}
+
+img.internet{
+float: right;
+margin: 23px 0px;
+}
