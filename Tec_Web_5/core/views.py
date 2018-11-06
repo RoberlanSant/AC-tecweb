@@ -47,3 +47,6 @@ def redes_computadores(request):
 def si(request):
 	return render(request, "si.html")
 
+def disciplinas(request):
+	return render(request, "disciplinas.html")
+
