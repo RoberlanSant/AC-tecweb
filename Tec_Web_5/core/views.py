@@ -50,3 +50,174 @@ def si(request):
 def disciplinas(request):
 	return render(request, "disciplinas.html")
 
+def disciplinas_adm(request):
+	return render(request, "disciplinas_adm.html")
+
+def disciplinas_adm_1s(request):
+	return render(request, "disciplinas_adm_1s.html")
+
+def disciplinas_adm_2s(request):
+	return render(request, "disciplinas_adm_2s.html")
+
+def disciplinas_adm_3s(request):
+	return render(request, "disciplinas_adm_3s.html")
+
+def disciplinas_adm_4s(request):
+	return render(request, "disciplinas_adm_4s.html")
+
+def disciplinas_adm_5s(request):
+	return render(request, "disciplinas_adm_5s.html")
+
+def disciplinas_adm_6s(request):
+	return render(request, "disciplinas_adm_6s.html")
+
+def disciplinas_adm_7s(request):
+	return render(request, "disciplinas_adm_7s.html")
+
+def disciplinas_adm_8s(request):
+	return render(request, "disciplinas_adm_8s.html")
+
+def disciplinas_ads_1s(request):
+	return render(request, "disciplinas_ads_1s.html")
+
+def disciplinas_ads_2s(request):
+	return render(request, "disciplinas_ads_2s.html")
+
+def disciplinas_ads_3s(request):
+	return render(request, "disciplinas_ads_3s.html")
+
+def disciplinas_ads_4s(request):
+	return render(request, "disciplinas_ads_4s.html")
+
+def disciplinas_ads(request):
+	return render(request, "disciplinas_ads.html")
+
+def disciplinas_ads_ead_1s(request):
+	return render(request, "disciplinas_ads_ead_1s.html")
+
+def disciplinas_ads_ead_2s(request):
+	return render(request, "disciplinas_ads_ead_2s.html")
+
+def disciplinas_ads_ead_3s(request):
+	return render(request, "disciplinas_ads_ead_3s.html")
+
+def disciplinas_ads_ead_4s(request):
+	return render(request, "disciplinas_ads_ead_4s.html")
+
+def disciplinas_ads_ead(request):
+	return render(request, "disciplinas_ads_ead.html")
+
+def disciplinas_ec(request):
+	return render(request, "disciplinas_ec.html")
+
+def disciplinas_ec_1s(request):
+	return render(request, "disciplinas_ec_1s.html")
+
+def disciplinas_ec_2s(request):
+	return render(request, "disciplinas_ec_2s.html")
+
+def disciplinas_ec_3s(request):
+	return render(request, "disciplinas_ec_3s.html")
+
+def disciplinas_ec_4s(request):
+	return render(request, "disciplinas_ec_4s.html")
+
+def disciplinas_ec_5s(request):
+	return render(request, "disciplinas_ec_5s.html")
+
+def disciplinas_ec_6s(request):
+	return render(request, "disciplinas_ec_6s.html")
+
+def disciplinas_ec_7s(request):
+	return render(request, "disciplinas_ec_7s.html")
+
+def disciplinas_ec_8s(request):
+	return render(request, "disciplinas_ec_8s.html")
+
+def disciplinas_gt_1s(request):
+	return render(request, "disciplinas_gt_1s.html")
+
+def disciplinas_gt(request):
+	return render(request, "disciplinas_gt.html")
+
+def disciplinas_gt_1s(request):
+	return render(request, "disciplinas_gt_1s.html")
+
+def disciplinas_gt_2s(request):
+	return render(request, "disciplinas_gt_2s.html")
+
+def disciplinas_gt_3s(request):
+	return render(request, "disciplinas_gt_3s.html")
+
+def disciplinas_gt_4s(request):
+	return render(request, "disciplinas_gt_4s.html")
+
+def disciplinas_gt_5s(request):
+	return render(request, "disciplinas_gt_5s.html")
+
+def disciplinas_gt_6s(request):
+	return render(request, "disciplinas_gt_6s.html")
+
+def disciplinas_gt_7s(request):
+	return render(request, "disciplinas_gt_7s.html")
+
+def disciplinas_gt_8s(request):
+	return render(request, "disciplinas_gt_8s.html")
+
+def disciplinas_jd(request):
+	return render(request, "disciplinas_jd.html")
+
+def disciplinas_jd_2s(request):
+	return render(request, "disciplinas_jd_2s.html")
+
+def disciplinas_jd_1s(request):
+	return render(request, "disciplinas_jd_1s.html")
+
+def disciplinas_jd_3s(request):
+	return render(request, "disciplinas_jd_3s.html")
+
+def disciplinas_jd_4s(request):
+	return render(request, "disciplinas_jd_4s.html")
+
+def disciplinas_rc_1s(request):
+	return render(request, "disciplinas_rc_1s.html")
+
+def disciplinas_rc_2s(request):
+	return render(request, "disciplinas_rc_2s.html")
+
+def disciplinas_rc_3s(request):
+	return render(request, "disciplinas_rc_3s.html")
+
+def disciplinas_rc_4s(request):
+	return render(request, "disciplinas_rc_4s.html")
+
+def disciplinas_rc(request):
+	return render(request, "disciplinas_rc.html")
+
+def disciplinas_si_1s (request):
+	return render(request, "disciplinas_si_1s.html")
+
+def disciplinas_si_2s (request):
+	return render(request, "disciplinas_si_2s.html")
+
+def disciplinas_si_3s (request):
+	return render(request, "disciplinas_si_3s.html")
+
+def disciplinas_si_4s (request):
+	return render(request, "disciplinas_si_4s.html")
+
+def disciplinas_si_5s (request):
+	return render(request, "disciplinas_si_5s.html")
+
+def disciplinas_si_6s (request):
+	return render(request, "disciplinas_si_6s.html")
+
+def disciplinas_si_7s (request):
+	return render(request, "disciplinas_si_7s.html")
+
+def disciplinas_si_8s (request):
+	return render(request, "disciplinas_si_8s.html")
+
+def disciplinas_si (request):
+	return render(request, "disciplinas_si.html")
+
